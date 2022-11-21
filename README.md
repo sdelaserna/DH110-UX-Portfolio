@@ -7,6 +7,7 @@
 ### Research
 
 ### Design 
+I conducted a Heuristic Evaluation of FoodPantries.Org and CollegeOfTheDesert to understand the current UX issues of the website related to the topic. See more about [heuristic evaluation](https://github.com/sdelaserna/DH110-22F-Heuristics-Assignment-)
 
 ### Evaluation
 
